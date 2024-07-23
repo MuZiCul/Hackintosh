@@ -2,11 +2,9 @@
 
 [![img](https://img.shields.io/github/stars/daliansky/Hackintosh.svg?color=ff69b4&label=%E7%82%B9%E8%B5%9E&logoColor=ff69b4&style=social)](https://github.com/daliansky/Hackintosh) [![img](https://img.shields.io/github/followers/daliansky.svg?label=%E7%B2%89%E4%B8%9D&logoColor=success&style=social)](https://github.com/daliansky/Hackintosh) ![img](https://img.shields.io/github/contributors/daliansky/Hackintosh.svg?color=red&label=%E8%B4%A1%E7%8C%AE%E4%BA%BA%E6%95%B0) [![img](https://img.shields.io/github/last-commit/daliansky/Hackintosh.svg?color=orange&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/daliansky/Hackintosh) [![img](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/) 
 
-## 黑苹果长期维护机型整理 by @[我意](https://github.com/y010204025)
 
 > 整理这份清单的目的：在于给想体验黑苹果的人一个方向，也想减少大家重复造轮子，节约大家的时间。      
-> 所有文件均归属于原作者，本清单只列出链接。如果您不希望你的链接被这份清单收录，请发送邮件到 [y010204025@126.com](mailto:y010204025@126.com),我将移除链接      
-> 清单收录了 4 个月以内的有人长期维护并更新过 EFI 的机型链接，如果有新的链接希望收录到这份清单，请发送邮件到 [y010204025@126.com](mailto:y010204025@126.com)       
+> 清单收录了 4 个月以内的有人长期维护并更新过 EFI 的机型链接，如果有新的链接希望收录到这份清单。   
 > 致谢：感谢一直为黑苹果进行开发的各位开发者和愿意共享出 EFI 文件的开发者，谢谢！     
 > 最近有好几个人发邮件，请求适配机型。
 
@@ -37,31 +35,6 @@
 
 *希望整个黑苹果领域能够进入良性循环状态，不用再重复造很多轮子，也希望那些使用别人成果收费的人，必要时还请留出文件来源和相关致谢，额，你付出了时间和精力收费确实是可以的，只是别整天这样独家、那样xx的，使用别人的东西，不丢人，做些声明不会抹掉你的存在。*
 
-   
-
-### 同步更新：[黑果小兵的部落阁](<https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html>)
-
-### 机型讨论：[远景pcbeta.com](<http://bbs.pcbeta.com/viewthread-1795904-1-1.html>)
-
-
-
-更新日期：
-
-- 2018 年 10 月 06 日
-- 2018 年 12 月 25 日
-- 2019 年 01 月 15 日
-- 2019 年 3 月 1 日 by 黑果小兵
-  - 按机型重新排版
-  - 将该文档上传到仓库，方便其它人提交合并，共同维护
-- 2019年4月2日
-  - 添加部分新机型
-  - 将多于2个机型的品牌独立出来，方便检索
-- 2019年5月9日
-  - 新增机型：`Mechrevo X9Ti R` / `Mechrevo Z2 G` 等
-- 2019年5月10日 by [明城](https://github.com/mingcheng)
-  - 新增机型：`Lenovo M93P` / `Dell 9020m` 等机型
-- 2019年7月3日 by [Cruii](https://github.com/Cruii)
-  - 新增机型：`暗影精灵2Pro`(HP OMEN 15-ax225TX)
 
 ### 笔记本部分机型
 
@@ -526,41 +499,5 @@
 |                  |                                                              |          |                                                       |
 
 
-
-### 其它机型请提交到[这里](https://github.com/daliansky/Hackintosh)
-
-
-
-## QQ群列表：
-
-688324116 [一起黑苹果](http://shang.qq.com/wpa/qunwpa?idkey=6bf69a6f4b983dce94ab42e439f02195dfd19a1601522c10ad41f4df97e0da82) 2000人群 已满
-
-331686786 [一起吃苹果](http://shang.qq.com/wpa/qunwpa?idkey=db511a29e856f37cbb871108ffa77a6e79dde47e491b8f2c8d8fe4d3c310de91) 2000人群 尚有空位
-
-257995340 [一起啃苹果](http://shang.qq.com/wpa/qunwpa?idkey=8a63c51acb2bb80184d788b9f419ffcc33aa1ed2080132c82173a3d881625be8) 2000人群 远景报备群
-
-891434070 [Mojave黑苹果交流群](http://shang.qq.com/wpa/qunwpa?idkey=be06e4c13e796e06a5cd3151d7fcc8f2feee8f9b68b1620ce8771111e2822084) 2000人群 远景报备群
-
-939122730 [Mojave黑苹果交流II群](http://shang.qq.com/wpa/qunwpa?idkey=e7fb8ea793aee10f9e86c70cd134867bde4183cc3eb87424e61e50b3e9cabf72) 2000人群
-
-891677227 [黑果小兵高级群](http://shang.qq.com/wpa/qunwpa?idkey=9a1eaa552c45d736bb6b19d82ad80e76bf82729f1c1a975b437aa3858473231d) 2000人群 尚有空位
-
-943307869 [黑果小兵高级群II](http://shang.qq.com/wpa/qunwpa?idkey=7080e6ff936fd2e207439ea18c0a34b4651db81ff45d0edf27b34a21a037871e) 2000人群 新开群，欢迎踊跃加入
-
-943181023 [联想小新Air黑苹果交流群](http://shang.qq.com/wpa/qunwpa?idkey=fb772a7e01436d43e1d856a099549551952bb08161ced4a8fc08b4e75e7ab438) 500人群 非专用机型请勿加入
-
-43518833  [Mac for HP](https://shang.qq.com/wpa/qunwpa?idkey=739faedadd025d72310a48effa168a797bd7407520f5264560f45fc611e601d0) 1000人群 惠普商务机EFI交流共享（推荐）
-
-612655811 [elitebook_probook_zbook系列黑苹果交流](https://shang.qq.com/wpa/qunwpa?idkey=5f91e85dc300cc5da20324401b23236cdeb9a0e5ebee5944fa8811ff0d5e4e36) 500人群 hotpatch方案(备选)
-
-308469644 [外星人Alienware黑苹果交流群](https://shang.qq.com/wpa/qunwpa?idkey=9f579e157ffed2a47be3861601080953453be323e50844005e9f2466dd2b12c5) 500人群 非专用机型请勿加入
-
-## 关于打赏
-
-如果您认可我的工作，请通过打赏支持我后续的更新
-
-| paypal                                                       | 微信                                                       | 支付宝                                               |
-| ------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------------------------------------- |
-| [![paypal_daliansky](https://7.daliansky.net/paypal_daliansky.png)](https://www.paypal.me/daliansky) | ![wechatpay_160](http://7.daliansky.net/wechatpay_160.jpg) | ![alipay_160](http://7.daliansky.net/alipay_160.jpg) |
 
 [![img](https://img.shields.io/github/stars/daliansky/Hackintosh.svg?color=ff69b4&label=%E7%82%B9%E8%B5%9E&logoColor=ff69b4&style=social)](https://github.com/daliansky/Hackintosh) [![img](https://img.shields.io/github/followers/daliansky.svg?label=%E7%B2%89%E4%B8%9D&logoColor=success&style=social)](https://github.com/daliansky/Hackintosh) ![img](https://img.shields.io/github/contributors/daliansky/Hackintosh.svg?color=red&label=%E8%B4%A1%E7%8C%AE%E4%BA%BA%E6%95%B0) [![img](https://img.shields.io/github/last-commit/daliansky/Hackintosh.svg?color=orange&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/daliansky/Hackintosh) [![img](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/) 
